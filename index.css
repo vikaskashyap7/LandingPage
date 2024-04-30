@@ -1,0 +1,20 @@
+.bg-image{
+    background-image:url(./assets/blob-scene-haikei.svg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    opacity: 1;
+    transition:opacity 1.5s;
+    
+}
+.app-btn-image{
+    width:300px !important;
+    height: 100px !important;
+}
+.bg-image-2{
+    background-image:url(./assets/layered-waves-haikei11.svg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    height: 400px;
+}
